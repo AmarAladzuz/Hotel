@@ -1,1 +1,1 @@
-# Hotel
+# Hotel Accommodation Project
